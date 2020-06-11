@@ -18,7 +18,7 @@
 * 短網址生成器(short_url.py)
 
 
-## linebot-patrick #line bot聊天機器人
+## line bot聊天機器人
 
 影片網址:[https://youtu.be/PrkCgbDcL9w](https://youtu.be/PrkCgbDcL9w)
 
