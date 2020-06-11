@@ -1,0 +1,11 @@
+line-bot-sdk
+flask
+numpy
+opencv-python
+translate
+googletrans
+pypinyin
+beautifulsoup4
+requests
+json5
+pandas
