@@ -2,7 +2,7 @@
 
 該文件主要以python project📝為主，包含以下內容：
 * line bot 聊天機器人(line bot use python flask + heroku)
-    * Google Trends焦點新聞爬蟲(搭配短網址功能)
+    * Google Trends 焦點新聞爬蟲(搭配短網址功能)
     * Google Translate API 翻譯功能
     * ptt表特版圖片爬蟲
     * ip查詢功能(搭配座標轉地址功能)
