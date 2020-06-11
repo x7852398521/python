@@ -26,26 +26,3 @@
 ## 電梯模擬系統
 
 影片網址:[https://youtu.be/B5oezxVSD58](https://youtu.be/B5oezxVSD58)
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-README.md[+] [dos] (12:05 11/06/2020)                               2,35-29 全部
--- 插入 --
-為主，包含line bot聊天機器人、身分證製造機、電梯模擬系統、📝
-
-# linebot-patrick #line bot聊天機器人
