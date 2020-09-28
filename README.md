@@ -1,6 +1,6 @@
 # ReadME
 
-## 1.591房屋交易租屋網資訊API
+## 1. 591房屋交易租屋網資訊API
 
 ### 內政部不動產時價登錄網資料匯出程式(estate.py)
 本程式共分為三項功能
@@ -45,7 +45,7 @@ python estate.py
 * 開啟Google Cloud Platform，於終端機輸入sudo python c591.py即可
 
 
-## 2.line bot聊天機器人
+## 2. line bot聊天機器人
 
 * line bot 聊天機器人功能(line bot use python flask + heroku)
     * Google Trends 焦點新聞爬蟲（搭配短網址功能）
@@ -55,7 +55,7 @@ python estate.py
     * 行政院環境保護署pm2.5監測數據爬蟲
     * 隨機抽籤功能
 
-## 3.其他工具
+## 3. 其他工具
 
 * 身分證製造機(id_card.py)
 
